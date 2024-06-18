@@ -1,0 +1,13 @@
+﻿Alexa Drapiza 
+
+
+Industry Analysis 
+
+
+        Focusing on the US, the industry that was impacted the most was the Consumer Industry and with the lowest industry impacted by layoffs was AI. The top five industries impacted by COVID-19 layoffs were Consumer at 57,220, Retail at 49,887, Transportation at 42,675, and Other with 32,819. The bottom five industries who were least impacted by the layoffs during COVID-19 were Energy (1,647 layoffs), Manufacturing(1,512 layoffs), Legal(906 layoffs), Aerospace (737 layoffs) and AI (242 layoffs). The most impacted according to the dataset was the consumer industry. 
+
+
+        Initially, due to experiences and events in the beginning of the COVID-19 pandemic era, my hypothesis was that the 2020-2021 year would be the spike of layoffs. This was due to the events such as shelter in place and lock-down. Another hypothesis I had was that the food and tech industry (it having its own industry) would be one of the industries in the higher range of being impacted the most. Based on the data, the food industry was in the middle which was not as impacted. For the tech industry, it just really depends on how it was  categorized, in this case it was under Consumers. Based on a dataframe created based on the highest layoff with dates of occurrence, November of 2022 had the highest overall in the US layoffs during the pandemic with 15,215 layoffs was the consumer industry. From the 10 occurrences collected, all happened within the 2022-2024 timeline. 
+
+
+        There is a correlation between the number of layoffs in the USA and the industry impacted. Due to the events throughout these last years within the pandemic, there is a correlation to the top 5 and the bottom 5 of industries. For the top 5 industries, Consumers was impacted the most due to how high in demand materials/products/goods were needed within the 2020 -2021 period. Because of the high demand, it required more people to be hired and be employed to do these jobs at high-risk. During this time, employment also increased wages because of how high-risk these jobs are. As time has gone-by and as people adjusted to living in a pandemic (“the new normal”), the economy was also changing along with inflation. Companies and businesses had to maintain a balance and could no longer afford the employees they hired initially. This could possibly be a factor to the consumer and retail industry. Compared to the bottom 5 - these industries weren’t as impacted over the years because these jobs are more stable no matter the circumstances. They are able to function due to how essential they are to people’s lives.
