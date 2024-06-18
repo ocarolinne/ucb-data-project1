@@ -4,21 +4,16 @@ Boot Camp - First Group
 Questions:
 Temporal Trends:
 
-How has the number of layoffs changed over time since the beginning of the pandemic?
-Is there any seasonality in layoffs throughout the year?
+How did COVID-19 affect layoffs from 2020-present day?
 
-Distribution by Industry:
-Which industries have been most affected by layoffs?
-Is there any correlation between the number of layoffs and the type of industry?
+Overall Trend:
+When were layoffs at its highest between 2020 -2024?
 
-Impact by Location:
-Which geographical areas (cities, countries, etc.) have had the most layoffs?
-Is there a correlation between location and the severity of layoffs?
+Global Situation:
+On a global scale, what did layoffs look like in different parts of the world?
 
-Relationship with Company Stage:
-Is there a difference in the number of layoffs between early-stage companies and more established companies?
-Are companies that recently went public or received significant investments laying off more or less?
+Location:
+Where in particular COVID-19 layoffs impacted layoffs by location? Are there any correlation between location and number of layoffs?
 
-Financial Analysis:
-Is there any relationship between the amount of funding raised by companies and the number of layoffs?
-Are companies with higher funding laying off fewer employees?
+Industry: 
+What industries were impacted the most by Covid-19 layoffs? Which was the highest industry with the highest number? Are there any correlation between the number of layoffs and the industry?
